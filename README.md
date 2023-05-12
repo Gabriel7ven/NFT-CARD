@@ -17,6 +17,8 @@ Learning:
 Useful tools:
 I used INKSCAPE to add "border-radius" to the leading image.
 
+Demo Visualization: https://gabriel7ven.github.io/NFT-CARD/
+
 -----------------------------------------------------------------------------------------------------------------
 PORTUGUESE
 # Olá, Bem-vindo ao README do projeto may.
@@ -38,3 +40,4 @@ Aprendizado:
 Ferramentas úteis:
 Usei o INKSCAPE para adicionar "border-radius" à imagem principal.
 
+Visualize o projeto: https://gabriel7ven.github.io/NFT-CARD/
