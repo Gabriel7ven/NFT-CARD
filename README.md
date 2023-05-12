@@ -1,7 +1,7 @@
 ## Hello, Welcome to may project's README.
 
 ### Screenshot:
-![image](https://github.com/Gabriel7ven/NFT-CARD/assets/114369951/022a4629-00ee-4fff-b4a8-12020bfb1fc3)
+![image](https://github.com/Gabriel7ven/NFT-CARD/assets/114369951/0e4e6d1f-e234-48a9-8bb5-48b3c4a66d7a)
 
 ### Overview:
 This is my second project. It is my answer to the challenge proposed by: https://www.frontendmentor.io/.
@@ -24,7 +24,7 @@ PORTUGUESE
 ## Olá, Bem-vindo ao README do projeto may.
 
 ### Screenshot:
-![image](https://github.com/Gabriel7ven/NFT-CARD/assets/114369951/022a4629-00ee-4fff-b4a8-12020bfb1fc3)
+![image](https://github.com/Gabriel7ven/NFT-CARD/assets/114369951/cfe578a1-8ba8-40e2-bcff-eb404e44d865)
 
 ### Visão geral:
 Este é o meu segundo projeto. É a minha resposta ao desafio proposto por: https://www.frontendmentor.io/.
